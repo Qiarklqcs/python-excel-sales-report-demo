@@ -1,0 +1,133 @@
+order_id,date,product,category,quantity,unit_price,unit_cost,status
+ORD-0051,2026-07-01,Desk Lamp,Home,3,44.0,22.0,Completed
+ORD-0062,2026-07-03,Water Bottle,Accessories,2,24.0,9.2,Completed
+ORD-0108,2026-07-03,Desk Lamp,Home,4,44.0,22.0,Completed
+ORD-0083,2026-07-08,Notebook,Stationery,2,12.0,4.1,Completed
+ORD-0111,2026-07-08,Canvas Tote,Accessories,1,18.0,6.3,Cancelled
+ORD-0015,2026-07-09,Phone Stand,Accessories,1,28.0,11.7,Completed
+ORD-0018,2026-07-09,Canvas Tote,Accessories,4,18.0,6.3,Completed
+ORD-0020,2026-07-09,Phone Stand,Accessories,4,28.0,11.7,Completed
+ORD-0095,2026-07-09,Canvas Tote,Accessories,3,18.0,6.3,Completed
+ORD-0109,2026-07-09,Pen Set,Stationery,1,15.0,5.0,Completed
+ORD-0067,2026-07-11,Phone Stand,Accessories,4,28.0,11.7,Completed
+ORD-0014,2026-07-12,Pen Set,Stationery,1,15.0,5.0,Completed
+ORD-0002,2026-07-13,Ceramic Mug,Home,3,22.0,8.4,Completed
+ORD-0049,2026-07-13,Phone Stand,Accessories,3,28.0,11.7,Completed
+ORD-0033,2026-07-14,Phone Stand,Accessories,2,28.0,11.7,Completed
+ORD-0034,2026-07-14,Canvas Tote,Accessories,1,18.0,6.3,Completed
+ORD-0121,2026-07-14,Notebook,Stationery,3,12.0,4.1,Completed
+ORD-0016,2026-07-17,Phone Stand,Accessories,1,28.0,11.7,Completed
+ORD-0040,2026-07-17,Phone Stand,Accessories,2,28.0,11.7,Completed
+ORD-0001,2026-07-18,Phone Stand,Accessories,3,28.0,11.7,Completed
+ORD-0057,2026-07-20,Desk Lamp,Home,2,44.0,22.0,Refunded
+ORD-0045,2026-07-21,Phone Stand,Accessories,1,28.0,11.7,Refunded
+ORD-0036,2026-07-23,Desk Lamp,Home,4,44.0,22.0,Completed
+ORD-0112,2026-07-23,Desk Lamp,Home,1,44.0,22.0,Completed
+ORD-0060,2026-07-24,Ceramic Mug,Home,3,22.0,8.4,Completed
+ORD-0054,2026-07-26,Notebook,Stationery,4,12.0,4.1,Completed
+ORD-0019,2026-07-27,Planner,Stationery,1,21.0,7.9,Completed
+ORD-0026,2026-07-28,Ceramic Mug,Home,1,22.0,8.4,Completed
+ORD-0024,2026-08-01,Ceramic Mug,Home,3,22.0,8.4,Cancelled
+ORD-0128,2026-08-01,Planner,Stationery,1,21.0,7.9,Completed
+ORD-0009,2026-08-02,Canvas Tote,Accessories,1,18.0,6.3,Refunded
+ORD-0030,2026-08-02,Canvas Tote,Accessories,4,18.0,6.3,Refunded
+ORD-0116,2026-08-03,Desk Lamp,Home,1,44.0,22.0,Completed
+ORD-0071,2026-08-04,Desk Lamp,Home,2,44.0,22.0,Completed
+ORD-0058,2026-08-05,Water Bottle,Accessories,2,24.0,9.2,Completed
+ORD-0125,2026-08-05,Phone Stand,Accessories,3,28.0,11.7,Refunded
+ORD-0011,2026-08-06,Canvas Tote,Accessories,1,18.0,6.3,Completed
+ORD-0107,2026-08-06,Ceramic Mug,Home,4,22.0,8.4,Completed
+ORD-0064,2026-08-07,Planner,Stationery,3,21.0,7.9,Completed
+ORD-0099,2026-08-07,Water Bottle,Accessories,3,24.0,9.2,Refunded
+ORD-0028,2026-08-08,Ceramic Mug,Home,4,22.0,8.4,Completed
+ORD-0044,2026-08-08,Planner,Stationery,1,21.0,7.9,Completed
+ORD-0072,2026-08-08,Desk Lamp,Home,2,44.0,22.0,Completed
+ORD-0102,2026-08-08,Canvas Tote,Accessories,2,18.0,6.3,Completed
+ORD-0012,2026-08-09,Pen Set,Stationery,1,15.0,5.0,Completed
+ORD-0017,2026-08-09,Ceramic Mug,Home,3,22.0,8.4,Completed
+ORD-0050,2026-08-10,Pen Set,Stationery,4,15.0,5.0,Completed
+ORD-0088,2026-08-12,Ceramic Mug,Home,1,22.0,8.4,Completed
+ORD-0119,2026-08-12,Phone Stand,Accessories,4,28.0,11.7,Refunded
+ORD-0065,2026-08-13,Canvas Tote,Accessories,1,18.0,6.3,Completed
+ORD-0025,2026-08-14,Notebook,Stationery,1,12.0,4.1,Completed
+ORD-0087,2026-08-14,Planner,Stationery,1,21.0,7.9,Completed
+ORD-0129,2026-08-14,Planner,Stationery,4,21.0,7.9,Completed
+ORD-0073,2026-08-15,Ceramic Mug,Home,4,22.0,8.4,Cancelled
+ORD-0092,2026-08-15,Water Bottle,Accessories,2,24.0,9.2,Completed
+ORD-0098,2026-08-16,Desk Lamp,Home,3,44.0,22.0,Completed
+ORD-0074,2026-08-17,Planner,Stationery,2,21.0,7.9,Completed
+ORD-0059,2026-08-18,Phone Stand,Accessories,3,28.0,11.7,Completed
+ORD-0063,2026-08-18,Phone Stand,Accessories,2,28.0,11.7,Completed
+ORD-0126,2026-08-18,Phone Stand,Accessories,1,28.0,11.7,Completed
+ORD-0041,2026-08-19,Pen Set,Stationery,4,15.0,5.0,Completed
+ORD-0053,2026-08-20,Notebook,Stationery,4,12.0,4.1,Completed
+ORD-0056,2026-08-23,Phone Stand,Accessories,2,28.0,11.7,Completed
+ORD-0078,2026-08-23,Pen Set,Stationery,4,15.0,5.0,Completed
+ORD-0085,2026-08-23,Planner,Stationery,4,21.0,7.9,Completed
+ORD-0093,2026-08-23,Notebook,Stationery,1,12.0,4.1,Cancelled
+ORD-0075,2026-08-24,Notebook,Stationery,4,12.0,4.1,Completed
+ORD-0006,2026-08-25,Phone Stand,Accessories,3,28.0,11.7,Completed
+ORD-0055,2026-08-25,Pen Set,Stationery,1,15.0,5.0,Completed
+ORD-0104,2026-08-25,Desk Lamp,Home,4,44.0,22.0,Completed
+ORD-0039,2026-08-30,Desk Lamp,Home,4,44.0,22.0,Completed
+ORD-0022,2026-08-31,Phone Stand,Accessories,4,28.0,11.7,Cancelled
+ORD-0043,2026-09-02,Phone Stand,Accessories,1,28.0,11.7,Completed
+ORD-0117,2026-09-03,Phone Stand,Accessories,3,28.0,11.7,Completed
+ORD-0122,2026-09-03,Planner,Stationery,1,21.0,7.9,Completed
+ORD-0061,2026-09-05,Canvas Tote,Accessories,2,18.0,6.3,Completed
+ORD-0110,2026-09-05,Water Bottle,Accessories,2,24.0,9.2,Completed
+ORD-0068,2026-09-06,Canvas Tote,Accessories,1,18.0,6.3,Refunded
+ORD-0091,2026-09-08,Phone Stand,Accessories,3,28.0,11.7,Completed
+ORD-0124,2026-09-09,Pen Set,Stationery,4,15.0,5.0,Completed
+ORD-0132,2026-09-09,Desk Lamp,Home,1,44.0,22.0,Completed
+ORD-0008,2026-09-10,Pen Set,Stationery,2,15.0,5.0,Completed
+ORD-0037,2026-09-10,Pen Set,Stationery,4,15.0,5.0,Completed
+ORD-0076,2026-09-10,Pen Set,Stationery,4,15.0,5.0,Cancelled
+ORD-0038,2026-09-11,Pen Set,Stationery,2,15.0,5.0,Completed
+ORD-0127,2026-09-11,Desk Lamp,Home,1,44.0,22.0,Refunded
+ORD-0052,2026-09-12,Phone Stand,Accessories,4,28.0,11.7,Completed
+ORD-0113,2026-09-12,Pen Set,Stationery,1,15.0,5.0,Completed
+ORD-0086,2026-09-13,Ceramic Mug,Home,3,22.0,8.4,Cancelled
+ORD-0089,2026-09-13,Water Bottle,Accessories,1,24.0,9.2,Completed
+ORD-0013,2026-09-15,Notebook,Stationery,1,12.0,4.1,Completed
+ORD-0069,2026-09-15,Notebook,Stationery,4,12.0,4.1,Completed
+ORD-0004,2026-09-16,Planner,Stationery,3,21.0,7.9,Completed
+ORD-0007,2026-09-16,Ceramic Mug,Home,1,22.0,8.4,Completed
+ORD-0105,2026-09-16,Planner,Stationery,1,21.0,7.9,Completed
+ORD-0101,2026-09-17,Phone Stand,Accessories,2,28.0,11.7,Cancelled
+ORD-0106,2026-09-17,Canvas Tote,Accessories,4,18.0,6.3,Completed
+ORD-0046,2026-09-18,Notebook,Stationery,1,12.0,4.1,Completed
+ORD-0080,2026-09-19,Desk Lamp,Home,3,44.0,22.0,Completed
+ORD-0103,2026-09-19,Water Bottle,Accessories,1,24.0,9.2,Completed
+ORD-0131,2026-09-19,Ceramic Mug,Home,1,22.0,8.4,Completed
+ORD-0079,2026-09-20,Ceramic Mug,Home,4,22.0,8.4,Completed
+ORD-0090,2026-09-20,Ceramic Mug,Home,4,22.0,8.4,Completed
+ORD-0115,2026-09-20,Phone Stand,Accessories,2,28.0,11.7,Completed
+ORD-0023,2026-09-21,Pen Set,Stationery,2,15.0,5.0,Completed
+ORD-0114,2026-09-21,Canvas Tote,Accessories,3,18.0,6.3,Completed
+ORD-0047,2026-09-22,Canvas Tote,Accessories,3,18.0,6.3,Completed
+ORD-0100,2026-09-23,Canvas Tote,Accessories,1,18.0,6.3,Completed
+ORD-0005,2026-09-24,Pen Set,Stationery,4,15.0,5.0,Completed
+ORD-0082,2026-09-24,Ceramic Mug,Home,3,22.0,8.4,Completed
+ORD-0029,2026-09-27,Ceramic Mug,Home,1,22.0,8.4,Completed
+ORD-0042,2026-09-27,Water Bottle,Accessories,3,24.0,9.2,Completed
+ORD-0048,2026-09-27,Planner,Stationery,1,21.0,7.9,Completed
+ORD-0120,2026-09-28,Desk Lamp,Home,2,44.0,22.0,Completed
+ORD-0096,2026-09-30,Water Bottle,Accessories,3,24.0,9.2,Completed
+ORD-0077,2026-10-01,Planner,Stationery,3,21.0,7.9,Completed
+ORD-0003,2026-10-02,Notebook,Stationery,1,12.0,4.1,Completed
+ORD-0027,2026-10-02,Ceramic Mug,Home,2,22.0,8.4,Completed
+ORD-0066,2026-10-02,Notebook,Stationery,3,12.0,4.1,Completed
+ORD-0097,2026-10-03,Desk Lamp,Home,3,44.0,22.0,Completed
+ORD-0010,2026-10-06,Phone Stand,Accessories,4,28.0,11.7,Completed
+ORD-0070,2026-10-08,Phone Stand,Accessories,4,28.0,11.7,Completed
+ORD-0130,2026-10-08,Desk Lamp,Home,3,44.0,22.0,Completed
+ORD-0031,2026-10-09,Notebook,Stationery,2,12.0,4.1,Completed
+ORD-0035,2026-10-09,Notebook,Stationery,2,12.0,4.1,Completed
+ORD-0081,2026-10-09,Canvas Tote,Accessories,1,18.0,6.3,Completed
+ORD-0084,2026-10-09,Phone Stand,Accessories,3,28.0,11.7,Completed
+ORD-0123,2026-10-12,Desk Lamp,Home,3,44.0,22.0,Completed
+ORD-0094,2026-10-13,Water Bottle,Accessories,2,24.0,9.2,Completed
+ORD-0032,2026-10-14,Pen Set,Stationery,3,15.0,5.0,Completed
+ORD-0118,2026-10-14,Canvas Tote,Accessories,4,18.0,6.3,Completed
+ORD-0021,2026-10-15,Desk Lamp,Home,4,44.0,22.0,Refunded

@@ -1,0 +1,133 @@
+﻿order_id,date,product,category,quantity,unit_price,unit_cost,status,month,revenue,cogs,gross_profit
+ORD-0051,2026-07-01,Desk Lamp,Home,3,44.00,22.00,Completed,2026-07,132.00,66.00,66.00
+ORD-0062,2026-07-03,Water Bottle,Accessories,2,24.00,9.20,Completed,2026-07,48.00,18.40,29.60
+ORD-0108,2026-07-03,Desk Lamp,Home,4,44.00,22.00,Completed,2026-07,176.00,88.00,88.00
+ORD-0083,2026-07-08,Notebook,Stationery,2,12.00,4.10,Completed,2026-07,24.00,8.20,15.80
+ORD-0111,2026-07-08,Canvas Tote,Accessories,1,18.00,6.30,Cancelled,2026-07,0.00,0.00,0.00
+ORD-0015,2026-07-09,Phone Stand,Accessories,1,28.00,11.70,Completed,2026-07,28.00,11.70,16.30
+ORD-0018,2026-07-09,Canvas Tote,Accessories,4,18.00,6.30,Completed,2026-07,72.00,25.20,46.80
+ORD-0020,2026-07-09,Phone Stand,Accessories,4,28.00,11.70,Completed,2026-07,112.00,46.80,65.20
+ORD-0095,2026-07-09,Canvas Tote,Accessories,3,18.00,6.30,Completed,2026-07,54.00,18.90,35.10
+ORD-0109,2026-07-09,Pen Set,Stationery,1,15.00,5.00,Completed,2026-07,15.00,5.00,10.00
+ORD-0067,2026-07-11,Phone Stand,Accessories,4,28.00,11.70,Completed,2026-07,112.00,46.80,65.20
+ORD-0014,2026-07-12,Pen Set,Stationery,1,15.00,5.00,Completed,2026-07,15.00,5.00,10.00
+ORD-0002,2026-07-13,Ceramic Mug,Home,3,22.00,8.40,Completed,2026-07,66.00,25.20,40.80
+ORD-0049,2026-07-13,Phone Stand,Accessories,3,28.00,11.70,Completed,2026-07,84.00,35.10,48.90
+ORD-0033,2026-07-14,Phone Stand,Accessories,2,28.00,11.70,Completed,2026-07,56.00,23.40,32.60
+ORD-0034,2026-07-14,Canvas Tote,Accessories,1,18.00,6.30,Completed,2026-07,18.00,6.30,11.70
+ORD-0121,2026-07-14,Notebook,Stationery,3,12.00,4.10,Completed,2026-07,36.00,12.30,23.70
+ORD-0016,2026-07-17,Phone Stand,Accessories,1,28.00,11.70,Completed,2026-07,28.00,11.70,16.30
+ORD-0040,2026-07-17,Phone Stand,Accessories,2,28.00,11.70,Completed,2026-07,56.00,23.40,32.60
+ORD-0001,2026-07-18,Phone Stand,Accessories,3,28.00,11.70,Completed,2026-07,84.00,35.10,48.90
+ORD-0057,2026-07-20,Desk Lamp,Home,2,44.00,22.00,Refunded,2026-07,0.00,0.00,0.00
+ORD-0045,2026-07-21,Phone Stand,Accessories,1,28.00,11.70,Refunded,2026-07,0.00,0.00,0.00
+ORD-0036,2026-07-23,Desk Lamp,Home,4,44.00,22.00,Completed,2026-07,176.00,88.00,88.00
+ORD-0112,2026-07-23,Desk Lamp,Home,1,44.00,22.00,Completed,2026-07,44.00,22.00,22.00
+ORD-0060,2026-07-24,Ceramic Mug,Home,3,22.00,8.40,Completed,2026-07,66.00,25.20,40.80
+ORD-0054,2026-07-26,Notebook,Stationery,4,12.00,4.10,Completed,2026-07,48.00,16.40,31.60
+ORD-0019,2026-07-27,Planner,Stationery,1,21.00,7.90,Completed,2026-07,21.00,7.90,13.10
+ORD-0026,2026-07-28,Ceramic Mug,Home,1,22.00,8.40,Completed,2026-07,22.00,8.40,13.60
+ORD-0024,2026-08-01,Ceramic Mug,Home,3,22.00,8.40,Cancelled,2026-08,0.00,0.00,0.00
+ORD-0128,2026-08-01,Planner,Stationery,1,21.00,7.90,Completed,2026-08,21.00,7.90,13.10
+ORD-0009,2026-08-02,Canvas Tote,Accessories,1,18.00,6.30,Refunded,2026-08,0.00,0.00,0.00
+ORD-0030,2026-08-02,Canvas Tote,Accessories,4,18.00,6.30,Refunded,2026-08,0.00,0.00,0.00
+ORD-0116,2026-08-03,Desk Lamp,Home,1,44.00,22.00,Completed,2026-08,44.00,22.00,22.00
+ORD-0071,2026-08-04,Desk Lamp,Home,2,44.00,22.00,Completed,2026-08,88.00,44.00,44.00
+ORD-0058,2026-08-05,Water Bottle,Accessories,2,24.00,9.20,Completed,2026-08,48.00,18.40,29.60
+ORD-0125,2026-08-05,Phone Stand,Accessories,3,28.00,11.70,Refunded,2026-08,0.00,0.00,0.00
+ORD-0011,2026-08-06,Canvas Tote,Accessories,1,18.00,6.30,Completed,2026-08,18.00,6.30,11.70
+ORD-0107,2026-08-06,Ceramic Mug,Home,4,22.00,8.40,Completed,2026-08,88.00,33.60,54.40
+ORD-0064,2026-08-07,Planner,Stationery,3,21.00,7.90,Completed,2026-08,63.00,23.70,39.30
+ORD-0099,2026-08-07,Water Bottle,Accessories,3,24.00,9.20,Refunded,2026-08,0.00,0.00,0.00
+ORD-0028,2026-08-08,Ceramic Mug,Home,4,22.00,8.40,Completed,2026-08,88.00,33.60,54.40
+ORD-0044,2026-08-08,Planner,Stationery,1,21.00,7.90,Completed,2026-08,21.00,7.90,13.10
+ORD-0072,2026-08-08,Desk Lamp,Home,2,44.00,22.00,Completed,2026-08,88.00,44.00,44.00
+ORD-0102,2026-08-08,Canvas Tote,Accessories,2,18.00,6.30,Completed,2026-08,36.00,12.60,23.40
+ORD-0012,2026-08-09,Pen Set,Stationery,1,15.00,5.00,Completed,2026-08,15.00,5.00,10.00
+ORD-0017,2026-08-09,Ceramic Mug,Home,3,22.00,8.40,Completed,2026-08,66.00,25.20,40.80
+ORD-0050,2026-08-10,Pen Set,Stationery,4,15.00,5.00,Completed,2026-08,60.00,20.00,40.00
+ORD-0088,2026-08-12,Ceramic Mug,Home,1,22.00,8.40,Completed,2026-08,22.00,8.40,13.60
+ORD-0119,2026-08-12,Phone Stand,Accessories,4,28.00,11.70,Refunded,2026-08,0.00,0.00,0.00
+ORD-0065,2026-08-13,Canvas Tote,Accessories,1,18.00,6.30,Completed,2026-08,18.00,6.30,11.70
+ORD-0025,2026-08-14,Notebook,Stationery,1,12.00,4.10,Completed,2026-08,12.00,4.10,7.90
+ORD-0087,2026-08-14,Planner,Stationery,1,21.00,7.90,Completed,2026-08,21.00,7.90,13.10
+ORD-0129,2026-08-14,Planner,Stationery,4,21.00,7.90,Completed,2026-08,84.00,31.60,52.40
+ORD-0073,2026-08-15,Ceramic Mug,Home,4,22.00,8.40,Cancelled,2026-08,0.00,0.00,0.00
+ORD-0092,2026-08-15,Water Bottle,Accessories,2,24.00,9.20,Completed,2026-08,48.00,18.40,29.60
+ORD-0098,2026-08-16,Desk Lamp,Home,3,44.00,22.00,Completed,2026-08,132.00,66.00,66.00
+ORD-0074,2026-08-17,Planner,Stationery,2,21.00,7.90,Completed,2026-08,42.00,15.80,26.20
+ORD-0059,2026-08-18,Phone Stand,Accessories,3,28.00,11.70,Completed,2026-08,84.00,35.10,48.90
+ORD-0063,2026-08-18,Phone Stand,Accessories,2,28.00,11.70,Completed,2026-08,56.00,23.40,32.60
+ORD-0126,2026-08-18,Phone Stand,Accessories,1,28.00,11.70,Completed,2026-08,28.00,11.70,16.30
+ORD-0041,2026-08-19,Pen Set,Stationery,4,15.00,5.00,Completed,2026-08,60.00,20.00,40.00
+ORD-0053,2026-08-20,Notebook,Stationery,4,12.00,4.10,Completed,2026-08,48.00,16.40,31.60
+ORD-0056,2026-08-23,Phone Stand,Accessories,2,28.00,11.70,Completed,2026-08,56.00,23.40,32.60
+ORD-0078,2026-08-23,Pen Set,Stationery,4,15.00,5.00,Completed,2026-08,60.00,20.00,40.00
+ORD-0085,2026-08-23,Planner,Stationery,4,21.00,7.90,Completed,2026-08,84.00,31.60,52.40
+ORD-0093,2026-08-23,Notebook,Stationery,1,12.00,4.10,Cancelled,2026-08,0.00,0.00,0.00
+ORD-0075,2026-08-24,Notebook,Stationery,4,12.00,4.10,Completed,2026-08,48.00,16.40,31.60
+ORD-0006,2026-08-25,Phone Stand,Accessories,3,28.00,11.70,Completed,2026-08,84.00,35.10,48.90
+ORD-0055,2026-08-25,Pen Set,Stationery,1,15.00,5.00,Completed,2026-08,15.00,5.00,10.00
+ORD-0104,2026-08-25,Desk Lamp,Home,4,44.00,22.00,Completed,2026-08,176.00,88.00,88.00
+ORD-0039,2026-08-30,Desk Lamp,Home,4,44.00,22.00,Completed,2026-08,176.00,88.00,88.00
+ORD-0022,2026-08-31,Phone Stand,Accessories,4,28.00,11.70,Cancelled,2026-08,0.00,0.00,0.00
+ORD-0043,2026-09-02,Phone Stand,Accessories,1,28.00,11.70,Completed,2026-09,28.00,11.70,16.30
+ORD-0117,2026-09-03,Phone Stand,Accessories,3,28.00,11.70,Completed,2026-09,84.00,35.10,48.90
+ORD-0122,2026-09-03,Planner,Stationery,1,21.00,7.90,Completed,2026-09,21.00,7.90,13.10
+ORD-0061,2026-09-05,Canvas Tote,Accessories,2,18.00,6.30,Completed,2026-09,36.00,12.60,23.40
+ORD-0110,2026-09-05,Water Bottle,Accessories,2,24.00,9.20,Completed,2026-09,48.00,18.40,29.60
+ORD-0068,2026-09-06,Canvas Tote,Accessories,1,18.00,6.30,Refunded,2026-09,0.00,0.00,0.00
+ORD-0091,2026-09-08,Phone Stand,Accessories,3,28.00,11.70,Completed,2026-09,84.00,35.10,48.90
+ORD-0124,2026-09-09,Pen Set,Stationery,4,15.00,5.00,Completed,2026-09,60.00,20.00,40.00
+ORD-0132,2026-09-09,Desk Lamp,Home,1,44.00,22.00,Completed,2026-09,44.00,22.00,22.00
+ORD-0008,2026-09-10,Pen Set,Stationery,2,15.00,5.00,Completed,2026-09,30.00,10.00,20.00
+ORD-0037,2026-09-10,Pen Set,Stationery,4,15.00,5.00,Completed,2026-09,60.00,20.00,40.00
+ORD-0076,2026-09-10,Pen Set,Stationery,4,15.00,5.00,Cancelled,2026-09,0.00,0.00,0.00
+ORD-0038,2026-09-11,Pen Set,Stationery,2,15.00,5.00,Completed,2026-09,30.00,10.00,20.00
+ORD-0127,2026-09-11,Desk Lamp,Home,1,44.00,22.00,Refunded,2026-09,0.00,0.00,0.00
+ORD-0052,2026-09-12,Phone Stand,Accessories,4,28.00,11.70,Completed,2026-09,112.00,46.80,65.20
+ORD-0113,2026-09-12,Pen Set,Stationery,1,15.00,5.00,Completed,2026-09,15.00,5.00,10.00
+ORD-0086,2026-09-13,Ceramic Mug,Home,3,22.00,8.40,Cancelled,2026-09,0.00,0.00,0.00
+ORD-0089,2026-09-13,Water Bottle,Accessories,1,24.00,9.20,Completed,2026-09,24.00,9.20,14.80
+ORD-0013,2026-09-15,Notebook,Stationery,1,12.00,4.10,Completed,2026-09,12.00,4.10,7.90
+ORD-0069,2026-09-15,Notebook,Stationery,4,12.00,4.10,Completed,2026-09,48.00,16.40,31.60
+ORD-0004,2026-09-16,Planner,Stationery,3,21.00,7.90,Completed,2026-09,63.00,23.70,39.30
+ORD-0007,2026-09-16,Ceramic Mug,Home,1,22.00,8.40,Completed,2026-09,22.00,8.40,13.60
+ORD-0105,2026-09-16,Planner,Stationery,1,21.00,7.90,Completed,2026-09,21.00,7.90,13.10
+ORD-0101,2026-09-17,Phone Stand,Accessories,2,28.00,11.70,Cancelled,2026-09,0.00,0.00,0.00
+ORD-0106,2026-09-17,Canvas Tote,Accessories,4,18.00,6.30,Completed,2026-09,72.00,25.20,46.80
+ORD-0046,2026-09-18,Notebook,Stationery,1,12.00,4.10,Completed,2026-09,12.00,4.10,7.90
+ORD-0080,2026-09-19,Desk Lamp,Home,3,44.00,22.00,Completed,2026-09,132.00,66.00,66.00
+ORD-0103,2026-09-19,Water Bottle,Accessories,1,24.00,9.20,Completed,2026-09,24.00,9.20,14.80
+ORD-0131,2026-09-19,Ceramic Mug,Home,1,22.00,8.40,Completed,2026-09,22.00,8.40,13.60
+ORD-0079,2026-09-20,Ceramic Mug,Home,4,22.00,8.40,Completed,2026-09,88.00,33.60,54.40
+ORD-0090,2026-09-20,Ceramic Mug,Home,4,22.00,8.40,Completed,2026-09,88.00,33.60,54.40
+ORD-0115,2026-09-20,Phone Stand,Accessories,2,28.00,11.70,Completed,2026-09,56.00,23.40,32.60
+ORD-0023,2026-09-21,Pen Set,Stationery,2,15.00,5.00,Completed,2026-09,30.00,10.00,20.00
+ORD-0114,2026-09-21,Canvas Tote,Accessories,3,18.00,6.30,Completed,2026-09,54.00,18.90,35.10
+ORD-0047,2026-09-22,Canvas Tote,Accessories,3,18.00,6.30,Completed,2026-09,54.00,18.90,35.10
+ORD-0100,2026-09-23,Canvas Tote,Accessories,1,18.00,6.30,Completed,2026-09,18.00,6.30,11.70
+ORD-0005,2026-09-24,Pen Set,Stationery,4,15.00,5.00,Completed,2026-09,60.00,20.00,40.00
+ORD-0082,2026-09-24,Ceramic Mug,Home,3,22.00,8.40,Completed,2026-09,66.00,25.20,40.80
+ORD-0029,2026-09-27,Ceramic Mug,Home,1,22.00,8.40,Completed,2026-09,22.00,8.40,13.60
+ORD-0042,2026-09-27,Water Bottle,Accessories,3,24.00,9.20,Completed,2026-09,72.00,27.60,44.40
+ORD-0048,2026-09-27,Planner,Stationery,1,21.00,7.90,Completed,2026-09,21.00,7.90,13.10
+ORD-0120,2026-09-28,Desk Lamp,Home,2,44.00,22.00,Completed,2026-09,88.00,44.00,44.00
+ORD-0096,2026-09-30,Water Bottle,Accessories,3,24.00,9.20,Completed,2026-09,72.00,27.60,44.40
+ORD-0077,2026-10-01,Planner,Stationery,3,21.00,7.90,Completed,2026-10,63.00,23.70,39.30
+ORD-0003,2026-10-02,Notebook,Stationery,1,12.00,4.10,Completed,2026-10,12.00,4.10,7.90
+ORD-0027,2026-10-02,Ceramic Mug,Home,2,22.00,8.40,Completed,2026-10,44.00,16.80,27.20
+ORD-0066,2026-10-02,Notebook,Stationery,3,12.00,4.10,Completed,2026-10,36.00,12.30,23.70
+ORD-0097,2026-10-03,Desk Lamp,Home,3,44.00,22.00,Completed,2026-10,132.00,66.00,66.00
+ORD-0010,2026-10-06,Phone Stand,Accessories,4,28.00,11.70,Completed,2026-10,112.00,46.80,65.20
+ORD-0070,2026-10-08,Phone Stand,Accessories,4,28.00,11.70,Completed,2026-10,112.00,46.80,65.20
+ORD-0130,2026-10-08,Desk Lamp,Home,3,44.00,22.00,Completed,2026-10,132.00,66.00,66.00
+ORD-0031,2026-10-09,Notebook,Stationery,2,12.00,4.10,Completed,2026-10,24.00,8.20,15.80
+ORD-0035,2026-10-09,Notebook,Stationery,2,12.00,4.10,Completed,2026-10,24.00,8.20,15.80
+ORD-0081,2026-10-09,Canvas Tote,Accessories,1,18.00,6.30,Completed,2026-10,18.00,6.30,11.70
+ORD-0084,2026-10-09,Phone Stand,Accessories,3,28.00,11.70,Completed,2026-10,84.00,35.10,48.90
+ORD-0123,2026-10-12,Desk Lamp,Home,3,44.00,22.00,Completed,2026-10,132.00,66.00,66.00
+ORD-0094,2026-10-13,Water Bottle,Accessories,2,24.00,9.20,Completed,2026-10,48.00,18.40,29.60
+ORD-0032,2026-10-14,Pen Set,Stationery,3,15.00,5.00,Completed,2026-10,45.00,15.00,30.00
+ORD-0118,2026-10-14,Canvas Tote,Accessories,4,18.00,6.30,Completed,2026-10,72.00,25.20,46.80
+ORD-0021,2026-10-15,Desk Lamp,Home,4,44.00,22.00,Refunded,2026-10,0.00,0.00,0.00

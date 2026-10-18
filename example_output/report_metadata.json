@@ -1,0 +1,11 @@
+{
+  "source": "sample_orders.csv",
+  "demo": true,
+  "accepted": 132,
+  "rejected": 0,
+  "completed": 114,
+  "refunded": 10,
+  "cancelled": 8,
+  "revenue_cad": "6674.00",
+  "gross_profit_cad": "3909.30"
+}

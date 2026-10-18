@@ -1,0 +1,12 @@
+SALES AUTOMATION | VALIDATION REPORT
+Source: sample_orders.csv
+Data: fictional demo data
+Valid rows: 132
+Rejected rows: 0
+Completed orders: 114
+Refunded orders: 10
+Cancelled orders: 8
+Completed-order sales CAD: 6674.00
+Gross profit CAD: 3909.30
+Revenue and COGS count completed orders only. Fully refunded and cancelled orders have zero recognized revenue and COGS.
+Gross profit excludes tax, fees, shipping and overhead. Partial refunds not supported.
